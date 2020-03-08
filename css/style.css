@@ -1,0 +1,95 @@
+body{
+	margin: 0;
+	background-color: #595959; 
+}
+h1{
+	text-align: center;
+	color: #666666;
+	background-color: #262626;
+	width: 100%;
+	font-size: 120px;
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+}
+div{
+	width: 100%;
+}
+.profile{
+ 	width: 100%;
+}
+.col1{
+	width: 50%;
+	float: left;
+}
+.col1 img{
+	width: 100%;
+}
+.col2{
+	width: 42%;
+	overflow: hidden;
+	padding-left: 100px;
+	padding-top: 50px;
+	color: #ffffff;
+}
+.col2 h2{
+	font-size: 55px;
+}
+.col2 h3{
+	font-size: 30px;
+}
+.col2 h4{
+	font-size: 16px;
+}
+.col2 h5{
+	font-size: 16px;
+}
+.col2 h6{
+	font-size: 16px;
+}
+.col2 p{
+	font-size: 16px;
+}
+.social{
+}
+.social ul{
+}
+.social ul li{
+	display:inline-block;
+}
+.social ul li a{
+	color: #ffffff;
+	margin-right:25px;
+	font-size:20px;
+	transition: 1s;
+}
+.social ul li a:hover{
+	color:#000000;
+}
+.list{
+	overflow: hidden;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+	color: #ffffff;
+}
+tr{
+	text-align: center;
+}
+tr:nth-child(even){
+	background-color: #404040;	
+}
+tr:nth-child(odd){
+	background-color: #666666;	
+}
+th{
+	font-size: 22px;
+	background-color: #ffffff;
+	color: #000000;
+	padding: 10px;
+}
+td{
+	font-size: 18px;
+	padding: 10px;
+}
